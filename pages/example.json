@@ -1,0 +1,14 @@
+{
+    "title": "Center Content Example",
+    "description": "Center Content Example",
+    "keywords": "Center, Content, Example",
+    "page_background_color": "FFFFFF",
+    "page_background_image": "https:\/\/s-media-cache-ak0.pinimg.com\/originals\/f0\/a9\/7c\/f0a97ca3a74d6ae77e0d361ed2e074cd.jpg",
+    "page_background_fit": "1",
+    "content_size": "s10 m6 l4 offset-m3 offset-l4 offset-s1",
+    "content_central": "1",
+    "content_background_image": "http:\/\/www.no-zaku.com\/background\/wp-content\/uploads\/sites\/9\/2016\/11\/Nice-Free-Webpage-Backgrounds.jpg",
+    "content_background_color": "FF3F5D",
+    "content_color": "323232",
+    "content": "<h1>Small Content<\/h1>\r\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>"
+}

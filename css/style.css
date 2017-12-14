@@ -1,0 +1,43 @@
+.ajls-bg {
+    /*background-image: url(http://69.bio/TECHNOLOGY.png);*/
+    background-color: #1f2324;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+nav#menu {
+    background-color: rgb(213, 61, 61);
+}
+
+#header {
+    padding-top: 58px;
+    color: #bbbbbb;
+}
+
+#header a {
+    color: #f1f1f1;
+}
+
+#menu a {
+    /* color: #d53d3d; */
+    /* text-shadow: 1px 1px 1px black; */
+}
+
+#header h1 {
+    text-shadow: 1px 1px 2px black;
+}
+
+body {
+    background-color: #fbfbfb;
+}
+
+
+.center-middle {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    /* vertical-align: middle; */
+    display: flex;
+    align-items: center;
+    z-index: 0;
+}
